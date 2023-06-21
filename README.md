@@ -11,7 +11,6 @@ Install Arduino IDE and open microfiler.ino file
 Change 2 strings to yours
 
 ```
-
 #define WIFI_SSID ""
 #define WIFI_PASS ""
 ```
