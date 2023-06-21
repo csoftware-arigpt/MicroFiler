@@ -16,3 +16,7 @@ Change 2 strings to yours
 ```
 
 Compile and load to your ESP8266
+
+## LICENSE
+
+MicroFiler licensed with MIT License, see LICENSE for more info
